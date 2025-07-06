@@ -32,9 +32,11 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
 
 - 🟢 Greetings
   - You: hello
-  Bot: Hey there! How can I help?
+    
+    Bot: Hey there! How can I help?
 
   You: how are you
+  
   Bot: I’m doing great, thanks for asking! 🤖
 - 😊 Emotions
   - You: i am happy
@@ -61,6 +63,6 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
   You: job
   Bot: Practice coding, contribute to GitHub, and be active on job platforms.  
 - ❌ Exit
-- You: exit
-Bot: Thank you For Chat with me!.. Goodbye! 👋
-  
+  - You: exit
+  Bot: Thank you For Chat with me!.. Goodbye! 👋
+    
