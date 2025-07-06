@@ -32,7 +32,7 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
 
 - 🟢 Greetings
   - You: hello
-  - 
+    
     Bot: Hey there! How can I help?
 
   - You: how are you
@@ -41,7 +41,7 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
     
 - 😊 Emotions
   - You: i am happy
-  - 
+    
     Bot: Yay! I'm happy to hear that! 😄 Keep smiling!
 
   - You: i am sad
@@ -63,7 +63,7 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
     Bot: Try a simple project like: Chatbot, To-Do app, Calculator, Weather App, or Portfolio Website.
 
   - You: internship
-  -
+  
     Bot: Internships give real-world experience. Check Internshala, LinkedIn, etc.
   
 - 🎯 Career
