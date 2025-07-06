@@ -32,36 +32,51 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
 
 - 🟢 Greetings
   - You: hello
+  - 
     Bot: Hey there! How can I help?
 
   - You: how are you
+    
     Bot: I’m doing great, thanks for asking! 🤖
     
 - 😊 Emotions
   - You: i am happy
-  Bot: Yay! I'm happy to hear that! 😄 Keep smiling!
+  - 
+    Bot: Yay! I'm happy to hear that! 😄 Keep smiling!
 
-  You: i am sad
-  Bot: I'm here for you. Remember, tough times never last, but tough people do. 💪
+  - You: i am sad
+
+    Bot: I'm here for you. Remember, tough times never last, but tough people do. 💪
+    
 - 💻 Computer Study / Coding
   - You: what is python
-  Bot: Python is a powerful, beginner-friendly language used in many fields.
 
-  You: what is ai
-  Bot: AI lets machines mimic human thinking and learning.
+    Bot: Python is a powerful, beginner-friendly language used in many fields.
+
+  - You: what is ai
+
+    Bot: AI lets machines mimic human thinking and learning.
+    
 - 📁 Projects & Internship
   - ou: i need project
-  Bot: Try a simple project like: Chatbot, To-Do app, Calculator, Weather App, or Portfolio Website.
 
-  You: internship
-  Bot: Internships give real-world experience. Check Internshala, LinkedIn, etc.
+    Bot: Try a simple project like: Chatbot, To-Do app, Calculator, Weather App, or Portfolio Website.
+
+  - You: internship
+  -
+    Bot: Internships give real-world experience. Check Internshala, LinkedIn, etc.
+  
 - 🎯 Career
   - You: career advice
-  Bot: Explore interests, build projects, and network on LinkedIn.
+
+    Bot: Explore interests, build projects, and network on LinkedIn.
   
-  You: job
-  Bot: Practice coding, contribute to GitHub, and be active on job platforms.  
+  - You: job
+
+    Bot: Practice coding, contribute to GitHub, and be active on job platforms.
+     
 - ❌ Exit
   - You: exit
-  Bot: Thank you For Chat with me!.. Goodbye! 👋
+
+    Bot: Thank you For Chat with me!.. Goodbye! 👋
     
