@@ -79,4 +79,13 @@ The interface is styled like modern messaging apps with a dark mode, placeholder
   - You: exit
 
     Bot: Thank you For Chat with me!.. Goodbye! 👋
-    
+ 
+---
+
+## 🚀 How to Run
+
+1. Make sure you have **Python 3** installed.
+2. Run the chatbot script:
+```bash
+python chatbot.py
+
